@@ -27,6 +27,7 @@ Temporary Items
 *.zip
 calculate
 *.out
+*.rtf
 
 ### Leiningen ###
 pom.xml
