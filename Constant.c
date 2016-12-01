@@ -2,7 +2,7 @@
 
 /*****************************************************************************/
 
-/*Author: Daniel Gonzalez P#4926400 */
+/*Author: Daniel Gonzalez  */
 /*Assignment 2: Calculate Euler and Pi*/
 
 /* program will calculate and prompt mathematical 
