@@ -2,7 +2,7 @@ ReadMe
 
 
 
-Programmer: Daniel Gonzalez #4926400
+Programmer: Daniel Gonzalez 
 Date: 09/20/2016
 
 To compile and execute Constant program, follow the steps below. 
