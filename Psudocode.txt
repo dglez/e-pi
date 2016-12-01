@@ -1,0 +1,29 @@
+
+PSEUDOCODE
+
+
+Programmer: Daniel Gonzalez #4926400
+Date: 09/20/2016
+
+
+
+// void calculateE(accuracy)
+    // start clock
+    // loop until accuracy is met
+        // add 1/n!
+        // increment n in 1
+    //end clock
+
+    //Print comparison and execution time
+
+
+// void calculatePi(accuracy)
+    // start clock
+    // loop until accuracy is met
+        // add (-1)^n/ (2n + 1)
+        // multiply sum by 4 to get pi and subtract previous pi 
+        // to test accuracy for loop condition.
+        // increment n for next term
+    //end clock
+
+    //Print comparison and execution time
